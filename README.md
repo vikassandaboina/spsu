@@ -1,4 +1,4 @@
-# DRONACHARYA
+# spsu
 
 A Collge Recommendation System For Engineering Admission.
 
@@ -8,9 +8,6 @@ You can use Dronacharya to automate the tedious process of finding colleges thro
 
 [https://harshdevmuraridronacharya.pythonanywhere.com/](https://harshdevmuraridronacharya.pythonanywhere.com/)
 
-## Video URL
-
-[https://youtu.be/PHLny2o9RYE](https://youtu.be/PHLny2o9RYE)
 
 ## Appendix
 
