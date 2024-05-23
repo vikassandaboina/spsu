@@ -2,11 +2,7 @@
 
 A Collge Recommendation System For Engineering Admission.
 
-You can use Dronacharya to automate the tedious process of finding colleges through traversing pdf containing thousands of pages.
-
-## Website
-
-[https://harshdevmuraridronacharya.pythonanywhere.com/](https://harshdevmuraridronacharya.pythonanywhere.com/)
+You can use spsu to automate the tedious process of finding colleges through traversing pdf containing thousands of pages
 
 
 ## Appendix
